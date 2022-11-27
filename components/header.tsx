@@ -70,6 +70,9 @@ export default function Header() {
             <Link href="/">Home</Link>
           </li>
           <li className={styles.navItem}>
+            <Link href="/login">Lightning Login</Link>
+          </li>
+          <li className={styles.navItem}>
             <Link href="/client">Client</Link>
           </li>
           <li className={styles.navItem}>

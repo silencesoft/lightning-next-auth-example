@@ -18,14 +18,18 @@
     "Lluis Agusti <hi@llu.lu>"
   ],
   "dependencies": {
+    "cookies-next": "^2.1.1",
+    "lnurl": "^0.24.2",
     "next": "latest",
     "next-auth": "latest",
     "nodemailer": "^6",
+    "qrcode": "^1.5.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/node": "^17",
+    "@types/qrcode": "^1.5.0",
     "@types/react": "^18.0.15",
     "typescript": "^4"
   }
